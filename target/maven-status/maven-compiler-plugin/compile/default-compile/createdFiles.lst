@@ -1,3 +1,6 @@
-com\example\restservice\GreetingController.class
-com\example\restservice\Greeting.class
 com\example\restservice\RestserviceApplication.class
+com\example\restservice\MainController.class
+com\example\restservice\GreetingController.class
+com\example\restservice\User.class
+com\example\restservice\Greeting.class
+com\example\restservice\UserRepository.class
